@@ -179,7 +179,7 @@ button:hover {
   text-align: center;
 }
 
-@media only screen and (min-width: 300px) {
+@media only screen and (max-width: 400px) {
 	 display: inline-block;
 		font-size: 20px
 		margin: 0 .6em .6em; 
@@ -192,7 +192,7 @@ button:hover {
 }
 }
 
-@media only screen and (min-width: 600px) {
+@media only screen and (max-width: 600px) {
 	display: block;
 	width: 550px;
 	margin-left: auto;
